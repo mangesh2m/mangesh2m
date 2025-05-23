@@ -1,3 +1,5 @@
+![Banner](https://drive.google.com/file/d/1V2y1b3uKJ769GYZ_edS-fPNdLX2GgjSh/view?usp=sharing)
+
 ## Hi there 👋
 
 As a **Technical Content Writer**, I blend the clarity and precision of _technical writing_ with the creativity and ingenuity of _content writing_ to produce engaging, articulate, and user-focused content.

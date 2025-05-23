@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1V2y1b3uKJ769GYZ_edS-fPNdLX2GgjSh/view?usp=sharing)
+![](https://drive.google.com/uc?id=1V2y1b3uKJ769GYZ_edS-fPNdLX2GgjSh)
 
 ## Hi there 👋
 

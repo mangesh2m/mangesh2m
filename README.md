@@ -2,7 +2,7 @@
 
 As a **Technical Content Writer**, I blend the clarity and precision of _technical writing_ with the creativity and ingenuity of _content writing_ to produce engaging, articulate, and user-focused content.
 
-Check out my work across domains on my [Portfolio](https://mangesh2m.journoportfolio.com/).
+Check out my work across different domains on my [Portfolio](https://mangesh2m.journoportfolio.com/).
 <!--
 **mangesh2m/mangesh2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,7 @@
 
 I blend the clarity and precision of _technical writing_ with the creativity and ingenuity of _content writing_ to produce engaging, articulate, and user-focused content.
 
-Check out my work across different domains on my [Portfolio](https://mangesh2m.journoportfolio.com/).
+Check out my work across different domains on my 💼 [Portfolio](https://mangesh2m.journoportfolio.com/).
 
 ### 🛠️ My Toolkit & Expertise
 
@@ -30,9 +30,10 @@ I am now actively applying and building expertise in the **Docs-as-Code (DAC) me
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mangesh-m-aa34091b/)
-* **Email:** [My Email ID](mailto:mangesh2m@gmail.com)
-
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mangesh-m-aa34091b/)
+* 📧 [Email](mailto:mangesh2m@gmail.com)
+* ✍️ [Blog](https://nomadmind01.wordpress.com/)
+  
 <!--
 **mangesh2m/mangesh2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -28,7 +28,7 @@ My foundation includes hands-on experience with **DITA/XML structured authoring*
 
 I am now actively applying and building expertise in the **Docs-as-Code (DAC) methodology**, leveraging Markdown, Git, GitHub, Jekyll, and CI/CD for agile documentation pipelines. 
 
-I'm currently focusing on expanding into **API Documentation**, applying DAC principles to developer-centric content.
+I'm also focusing on expanding into **API Documentation**, applying DAC principles to developer-centric content.
 
 ### 📫 Let's Connect!
 

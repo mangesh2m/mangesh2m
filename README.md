@@ -20,6 +20,10 @@ Check out my work across different domains on my [Portfolio](https://mangesh2m.j
 ![Jekyll](https://img.shields.io/badge/Jekyll-SSG-orange)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-informational)
 ![XMetaL](https://img.shields.io/badge/XMetaL-XML%20Editor-darkblue)
+
+My foundation includes hands-on experience with **DITA/XML structured authoring** and **centralized SCM**, providing a deep understanding of content modularity, reuse, and robust version management. 
+
+I am now actively applying and building expertise in the **Docs-as-Code (DAC) methodology**, leveraging Markdown, Git, GitHub, Jekyll, and CI/CD for agile documentation pipelines. I'm currently focusing on expanding into **API Documentation**, applying DAC principles to developer-centric content.
 <!--
 **mangesh2m/mangesh2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

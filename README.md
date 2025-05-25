@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mangesh</h1>
 
+> Technical Content Writer | Transforming Complexity into User-Centric Clarity
+
+
 ![banner](https://drive.google.com/uc?id=1V2y1b3uKJ769GYZ_edS-fPNdLX2GgjSh)
 
-As a **Technical Content Writer**, I blend the clarity and precision of _technical writing_ with the creativity and ingenuity of _content writing_ to produce engaging, articulate, and user-focused content.
+I blend the clarity and precision of _technical writing_ with the creativity and ingenuity of _content writing_ to produce engaging, articulate, and user-focused content.
 
 Check out my work across different domains on my [Portfolio](https://mangesh2m.journoportfolio.com/).
 
@@ -24,6 +27,12 @@ Check out my work across different domains on my [Portfolio](https://mangesh2m.j
 My foundation includes hands-on experience with **DITA/XML structured authoring** and **centralized SCM**, providing a deep understanding of content modularity, reuse, and robust version management. 
 
 I am now actively applying and building expertise in the **Docs-as-Code (DAC) methodology**, leveraging Markdown, Git, GitHub, Jekyll, and CI/CD for agile documentation pipelines. I'm currently focusing on expanding into **API Documentation**, applying DAC principles to developer-centric content.
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mangesh-m-aa34091b/)
+* **Email:** [My Email ID](mailto:mangesh2m@gmail.com)
+
 <!--
 **mangesh2m/mangesh2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

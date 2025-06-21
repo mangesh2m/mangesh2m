@@ -7,7 +7,7 @@
 
 I blend the clarity and precision of _technical writing_ with the creativity and ingenuity of _content writing_ to produce engaging, articulate, and user-focused content.
 
-+ Have a look at my Docusaurus-powered sample <a href="https://mangesh2m.github.io/api-docu-site/" target="_blank">API Documentation</a> site
++ Have a look at my Docusaurus-powered <a href="https://mangesh2m.github.io/api-docu-site/" target="_blank">API Documentation</a> site
 + Check out my work across domains on my 💼 <a href="https://mangesh2m.journoportfolio.com/" target="_blank">Portfolio</a>
 
 ### 🛠️ My Toolkit & Expertise

@@ -2,7 +2,7 @@
 
 <h6 align="center">Technical Content Writer | Transforming Complexity into User-Centric Clarity</h6>
 
-![banner](https://drive.google.com/uc?id=12Ektk8AXN8E7XK4F7NUn55QdIGj3WhCv)
+![banner](https://drive.google.com/uc?id=1V2y1b3uKJ769GYZ_edS-fPNdLX2GgjSh)
 
 I blend the clarity and precision of _technical writing_ with the creativity and ingenuity of _content writing_ to produce engaging, articulate, and user-focused content.
 

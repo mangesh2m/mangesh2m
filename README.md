@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mangesh</h1>
 
->Technical Content Writer | Transforming Complexity into User-Centric Clarity
+<h6 align="center">Technical Content Writer | Transforming Complexity into User-Centric Clarity</h6>
 
 ![banner](https://drive.google.com/uc?id=12Ektk8AXN8E7XK4F7NUn55QdIGj3WhCv)
 

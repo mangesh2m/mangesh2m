@@ -21,6 +21,7 @@ I blend the clarity and precision of _technical writing_ with the creativity and
 ![Markdown](https://img.shields.io/badge/Markdown-Standard-lightgrey)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-SSG-green)
 ![Jekyll](https://img.shields.io/badge/Jekyll-SSG-orange)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-informational)
 ![XMetaL](https://img.shields.io/badge/XMetaL-XML%20Editor-darkblue)

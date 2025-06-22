@@ -28,7 +28,7 @@ I blend the clarity and precision of _technical writing_ with the creativity and
 
 My foundation includes hands-on experience with **DITA/XML structured authoring** and **centralized SCM**, providing a deep understanding of content modularity, reuse, and robust version management. 
 
-I am now actively applying and building expertise in the **Docs-as-Code (DAC) methodology**, leveraging Markdown, Git, GitHub, Jekyll, and CI/CD for agile documentation pipelines. 
+I am now actively applying and building expertise in the **Docs-as-Code (DAC) methodology**, leveraging Markdown, Git, GitHub, Docusaurus (/Jekyll), and CI/CD for agile documentation pipelines. 
 
 I'm also focusing on expanding into **API Documentation**, applying DAC principles to developer-centric content.
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mangesh</h1>
 
-![banner](https://drive.google.com/uc?id=1Fuh7-hFgUSJH6JJ-sg6KJsG5ZzVIDHPv)
+![banner](https://drive.google.com/uc?id=1lVzNAKpSEN1wDhp_8_MHettzLi10VMBD)
 
 I blend the clarity and precision of _technical writing_ with the creativity and ingenuity of _content writing_ to produce engaging, articulate, and user-focused content.
 

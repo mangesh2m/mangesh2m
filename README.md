@@ -29,13 +29,13 @@ My foundation includes hands-on experience with **DITA/XML structured authoring*
 
 I am now actively applying and building expertise in the **Docs-as-Code (DAC) methodology**, leveraging Markdown, Git, GitHub, Docusaurus (/Jekyll), and CI/CD for agile documentation pipelines. 
 
-I'm also focusing on expanding into **API Documentation**, applying DAC principles to developer-centric content.
+I'm also focusing on expanding into **API Documentation**, applying DAC principles in authoring developer-centric content.
 
 ### 📫 Let's Connect!
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/mangesh-m-aa34091b/)
-* 📧 [Email](mailto:mangesh2m@gmail.com)
-* ✍️ [Blog](https://nomadmind01.wordpress.com/)
++ 🔗 [LinkedIn](https://www.linkedin.com/in/mangesh-m-aa34091b/)
++ 📧 [Email](mailto:mangesh2m@gmail.com)
++ ✍️ [Blog](https://nomadmind01.wordpress.com/)
   
 <!--
 **mangesh2m/mangesh2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
